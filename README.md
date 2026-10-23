@@ -1,0 +1,2 @@
+# Handlesen
+Handlesen und Oracle
